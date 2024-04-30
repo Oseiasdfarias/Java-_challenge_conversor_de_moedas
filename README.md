@@ -9,14 +9,16 @@
 
 # Conversor de Moedas com Java
 
-<p align="center">
-  <img height="90px" src="./utils/Badge-Conversor.png">
-</p>
-
-
 
 Projeto desenvolvido durante o programa ONE - Oracle Next Education
 
 <p align="center">
   <img widht="70%" src="./utils/printScreem.png">
 </p>
+
+
+<p align="center">
+  <img height="200px" src="./utils/Badge-Conversor.png">
+</p>
+
+
